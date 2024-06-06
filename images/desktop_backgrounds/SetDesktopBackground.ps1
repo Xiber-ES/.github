@@ -8,8 +8,8 @@ $DesktopUrl = "DesktopImageUrl"
 $StatusValue = "1"
 
 
-$url = "https://imgur.com/a/02UUACD"
-$DesktopImageValue = "C:\MDM\desktop_background_temp.jpg"
+$url = "https://github.com/Xiber-ES/.github/blob/master/images/desktop_backgrounds/2024_04_30_TESYA_SCREEN_Sustainability_B1.jpg?raw=true"
+$DesktopImageValue = "C:\MDM\desktop_background_20240430.jpg"
 $directory = "C:\MDM\"
 
 
